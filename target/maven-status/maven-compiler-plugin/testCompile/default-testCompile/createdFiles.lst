@@ -1,0 +1,7 @@
+com\cav\spring\service\bank\repository\AccountRepositoryTest.class
+com\cav\spring\service\bank\controller\BankServiceControllerTest.class
+com\cav\spring\service\bank\repository\AbstractRepositoryTest.class
+com\cav\spring\service\bank\repository\FundRepositoryTest.class
+com\cav\spring\service\bank\controller\AbstractControllerTest.class
+com\cav\spring\service\bank\repository\BankRepositoryTest.class
+com\cav\spring\service\bank\AbstractTest.class
